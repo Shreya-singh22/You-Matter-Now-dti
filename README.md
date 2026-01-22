@@ -37,3 +37,12 @@ The platform focuses on **self-reflection, emotional well-being, and guided ment
 
 ## 📁 Project Structure
 
+
+you-matter-games-journal-main/
+│
+├── src/ # Source code
+├── public/ # Static assets
+├── App.tsx # Main app component
+├── App.css # Global styles
+├── index.tsx # Entry point
+└── package.json # Dependencies
