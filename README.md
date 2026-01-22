@@ -1,4 +1,4 @@
-# 🌱 You Matter Now (DTI)
+# 🌱 You Matter Now 
 
 **You Matter Now** is an AI-powered mental health platform designed to provide accessible, compassionate, and continuous support for individuals through technology.
 
@@ -35,14 +35,7 @@ The platform focuses on **self-reflection, emotional well-being, and guided ment
 
 ---
 
-## 📁 Project Structure
+🌐 Live Deployment
 
-
-you-matter-games-journal-main/
-│
-├── src/ # Source code
-├── public/ # Static assets
-├── App.tsx # Main app component
-├── App.css # Global styles
-├── index.tsx # Entry point
-└── package.json # Dependencies
+🚀 Live Website:
+👉 https://you-matter-games-journal-main.vercel.app
